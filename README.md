@@ -36,7 +36,7 @@ interface CorporateToolsConfig {
   apiUrl: string;           // Required: Corporate Tools API URL
   accessKey: string;        // Required: Your access key
   secretKey: string;        // Required: Your secret key
-  websiteUrl?: string;      // Optional: Your website URL
+  websiteUrl: string;       // Required: Your Provider for example www.registeredagentsinc.com 
   timeout?: number;         // Optional: Request timeout in ms (default: 30000)
   logger?: {                // Optional: Custom logger
     log: (message: string) => void;
