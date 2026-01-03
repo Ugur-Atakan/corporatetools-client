@@ -1,6 +1,6 @@
 # @uguratakan/corporatetools-client
 
-TypeScript client library for Corporate Tools API. Standalone version that works without NestJS dependencies.
+TypeScript client library for Corporate Tools API.
 
 ## Installation
 
