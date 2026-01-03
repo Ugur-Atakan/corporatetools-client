@@ -26,6 +26,9 @@
   ],
   "author": "Ugur-Atakan",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/Ugur-Atakan/corporatetools-client.git"
